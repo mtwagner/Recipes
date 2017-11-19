@@ -1,12 +1,12 @@
 # Dry
 1 1/4 cups flour
 2 tbsp light brown sugar
-2 tsp baking powder
+2 1/4 tsp baking powder
 1/4 tsp salt
 1/4 tsp cinnamon
 
 # Wet
-1 cup milk
+7/8 cup milk
 1/2 cup canned pumpkin
 1 egg egg
 2 tbsp butter (melted)
