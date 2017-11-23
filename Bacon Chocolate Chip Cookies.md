@@ -1,20 +1,20 @@
-Bacon Chocolate Chip Cookies
+# Bacon Chocolate Chip Cookies
 
-# Wet Ingredients  
+## Wet Ingredients  
 1/2 cup butter  
 1/4 cup granulated sugar  
 1/2 cup dark brown sugar  
 1 egg  
 1/2 tsp vanilla
 
-# Dry Ingredients  
+## Dry Ingredients  
 1 1/8 cups flour  
 1/2 tsp soda  
-Pinch of salt  
-3/4 cup chocolate chips  
+**Pinch** of salt  
+3/4 cup chocolate chips (Milk Chocolate or Semi-Sweet)  
 4 strips thick cut bacon (diced)  
 
-# Steps  
+## Steps  
 Grease or line 2 baking sheets with parchment paper or silicone pad.  
 Dice and render bacon. Put bacon onto paper towels to removed rendered fat.  
 With electric mixer, cream together the butter and the two sugars until light and fluffy.  

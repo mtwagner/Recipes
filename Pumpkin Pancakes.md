@@ -1,20 +1,20 @@
-Pumpkin Pancakes  
+# Pumpkin Pancakes  
 
-# Dry Ingredients  
+## Dry Ingredients  
 1 1/4 cups flour  
 2 tbsp light brown sugar  
 2 1/4 tsp baking powder  
 1/4 tsp salt  
 1/4 tsp cinnamon  
   
-# Wet Ingredients  
+## Wet Ingredients  
 7/8 cup milk  
 1/2 cup canned pumpkin  
 1 egg egg  
 2 tbsp butter (melted)  
 1 tsp vanilla  
 
-# Steps
+## Steps
 Mix dry items in larger bowl.  
 Beat wet ingredients in separate bowl.  
 Mix wet ingredients into dry.  
