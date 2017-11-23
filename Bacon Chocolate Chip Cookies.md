@@ -8,11 +8,11 @@ Bacon Chocolate Chip Cookies
 1/2 tsp vanilla
 
 # Dry Ingredients  
-1 1/8 cups flour
-1/2 tsp soda
-Pinch of salt
-3/4 cup chocolate chips
-4 strips thick cut bacon (diced)
+1 1/8 cups flour  
+1/2 tsp soda  
+Pinch of salt  
+3/4 cup chocolate chips  
+4 strips thick cut bacon (diced)  
 
 # Steps  
 Grease or line 2 baking sheets with parchment paper or silicone pad.  
