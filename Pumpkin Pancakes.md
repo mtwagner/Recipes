@@ -1,3 +1,5 @@
+Pumpkin Pancakes  
+
 # Dry Ingredients  
 1 1/4 cups flour  
 2 tbsp light brown sugar  
