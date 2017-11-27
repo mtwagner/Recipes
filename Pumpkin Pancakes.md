@@ -5,7 +5,8 @@
 2 tbsp light brown sugar  
 2 1/4 tsp baking powder  
 1/4 tsp salt  
-1/4 tsp cinnamon  
+3/4 tsp cinnamon  
+1/2 tsp pumpkin spice
   
 ## Wet Ingredients  
 7/8 cup milk  
