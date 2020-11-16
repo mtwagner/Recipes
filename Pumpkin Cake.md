@@ -5,9 +5,11 @@
 1 tsp baking soda  
 1/2 tsp baking powder  
 1/2 tsp salt  
-1 tsp cloves  
-1 tsp cinnamon  
-1 tsp nutmeg  
+4 tsp spices (or pumpkin pie spice) 
+- 1 tsp cloves  
+- 1 1/2 tsp cinnamon  
+- 1 1/2 tsp nutmeg  
+
 
 ## Wet Ingredients
 3/4 cup unsalted butter (melted and cooled)  
