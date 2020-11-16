@@ -30,7 +30,7 @@ Gently fold with whisk or large spoon until combined.
 Pour into 9x13 pan.  
 Spread evenly with spatula. 
 Bake for 35-38 minutes.  
-Check with probe. Probe should come out clean. 
+Check with probe. Probe should come out clean.  
 Cool on wire rack. 
 
 ## Notes
